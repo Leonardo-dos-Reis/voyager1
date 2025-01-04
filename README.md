@@ -1,0 +1,1 @@
+Este é meu primeiro README usando o "git em tela preta"
